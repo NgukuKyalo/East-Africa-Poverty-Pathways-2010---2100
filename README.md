@@ -134,7 +134,22 @@ SSP3. Key findings:
 - **Uganda** reverses its SSP3 trend completely, showing a **38.7% 
   decline** instead of an increase
 - **Rwanda** and **Burundi** both show reductions of around **34%**, 
-  consistent with the regional trend
+  consistent with the regional trend.
+
+  ...
+### 2030 Poverty Outlook - SSP3
+
+Under the SSP3 scenario, East Africa is far from achieving SDG 1 
+by 2030. With millions still living below $1.90/day and countries 
+like Uganda and Burundi showing increases in poverty, the Regional 
+Rivalry storyline paints a grim picture for the region. Tanzania 
+remains the only country showing meaningful progress, yet still 
+has over 16 million people in extreme poverty by 2030 — far from 
+the zero poverty target.
+
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/cd0db8f9-d257-4119-94f7-b9bf15722d2d" />
+
+
 
 **Conclusion:** Under SSP4, progress toward SDG 1 is more promising 
 across the region. However, it is important to note that SSP4 
