@@ -149,19 +149,8 @@ the zero poverty target.
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/cd0db8f9-d257-4119-94f7-b9bf15722d2d" />
 
-
-
-**Conclusion:** Under SSP4, progress toward SDG 1 is more promising 
-across the region. However, it is important to note that SSP4 
-represents a deeply unequal world — while aggregate poverty numbers 
-may decline, the gains are likely concentrated among elites while 
-the poorest remain vulnerable. Ending poverty on paper does not 
-necessarily mean ending inequality.
-
-> ⚠️ Note: SSP4 values are at a significantly different scale to SSP3. 
-> Clarification on units has been requested from the World Bank CCKP 
-> team and findings will be updated upon response.
 **SSP4**
+
   | Country  | 2010 Population in Poverty | 2030 Population in Poverty | % Change |
 |----------|---------------------------|---------------------------|----------|
 | Tanzania | 55 | 25 | -54.5% ✅ |
@@ -169,7 +158,20 @@ necessarily mean ending inequality.
 | Uganda   | 62 | 38 | -38.7% ✅ |
 | Rwanda   | 49 | 32 | -34.7% ✅ |
 | Burundi  | 77 | 52 | -32.5% ✅ |
-**Conclusion:** Under SSP3, SDG 1 is highly unlikely to be achieved 
+
+> ⚠️ Note: SSP4 values are at a significantly different scale to SSP3. 
+> Clarification on units has been requested from the World Bank CCKP 
+> team and findings will be updated upon response.
+
+...
+**Conclusion**
+1. Under SSP4, progress toward SDG 1 is more promising 
+across the region. However, it is important to note that SSP4 
+represents a deeply unequal world — while aggregate poverty numbers 
+may decline, the gains are likely concentrated among elites while 
+the poorest remain vulnerable. Ending poverty on paper does not 
+necessarily mean ending inequality.
+2. Under SSP3, SDG 1 is highly unlikely to be achieved 
 by 2030 for any East African country. The regional rivalry and poor 
 international cooperation storyline leaves millions trapped in 
 extreme poverty well beyond the 2030 deadline.
